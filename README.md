@@ -1,10 +1,10 @@
 # Introduction
 
-live link: https://inspiring-poincare-a090a0.netlify.app
+live link: franks-travel.netlify.app
 
-Built and Deployed an advanced Travel Companion Application using Google Maps. With Geolocation, Google Maps API, Searching for places, Fetching restaurants, hotels and attractions based on location from specialized Rapid APIs, data filtering and much more, this Travel Advisor App is the best Maps Application that you can currently find on YouTube and on the entire internet.
+Built and Deployed an advanced Travel Companion Application using Google Maps. With Geolocation, Google Maps API, Searching for places, Fetching restaurants, hotels and attractions based on location from specialized Rapid APIs, data filtering and much more.
 
-In this project, you'll see me do:
+In this project, you'll see:
 
 - Advanced React Best Practices such as folder & file structure, hooks and refs
 - Creating a User Interface using Material UI
